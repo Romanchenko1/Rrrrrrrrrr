@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\романченкор.local\desktop\rrr\romanchenko11\romanchenko11\source.cpp(10): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Romanchenko11.vcxproj -> C:\Users\РоманченкоР.LOCAL\Desktop\RRR\Romanchenko11\Debug\Romanchenko11.exe
